@@ -1,0 +1,8 @@
+---
+filename: whatsup.gif
+tags:
+- whatsup
+- whats up
+- what’s up
+- what's up
+---

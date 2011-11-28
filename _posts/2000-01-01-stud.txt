@@ -1,0 +1,6 @@
+---
+filename: stud.gif
+tags:
+- stud
+- awesome
+---

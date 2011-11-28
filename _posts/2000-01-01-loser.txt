@@ -1,0 +1,5 @@
+---
+filename: loser.gif
+tags:
+- loser
+---

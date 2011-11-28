@@ -1,0 +1,6 @@
+---
+filename: omg.gif
+tags:
+- omg
+- oh my god
+---

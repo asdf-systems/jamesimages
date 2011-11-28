@@ -1,0 +1,6 @@
+---
+filename: goat.gif
+tags:
+- goat
+- angry
+---

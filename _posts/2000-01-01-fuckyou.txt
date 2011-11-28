@@ -1,0 +1,5 @@
+---
+filename: fuckyou.gif
+tags:
+- fuck you
+---

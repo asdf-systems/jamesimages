@@ -1,0 +1,6 @@
+---
+filename: disco.gif
+tags:
+- disco
+- dancing
+---
