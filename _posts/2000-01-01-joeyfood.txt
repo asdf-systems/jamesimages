@@ -1,0 +1,11 @@
+---
+filename: joeyfoo.gif
+tags:
+- joey
+- food
+- share food
+- joey share food
+- joey doesnt share food
+- joey doesn't share foor
+- sharing food
+---
